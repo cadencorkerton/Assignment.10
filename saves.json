@@ -1,0 +1,140 @@
+{
+  "accounts": {
+    "1": {
+      "username": "cadendc",
+      "salt": "f28c3223a47eded75f370b653fd6146d",
+      "password_hash": "662117486b7a8700d0c0c3a84b60fc720aa962c6edf9b8088314420ecf51faba"
+    },
+    "2": {
+      "username": "caden",
+      "salt": "d50da688316e1973fe80a5575b1bbe65",
+      "password_hash": "137f24da9f06d305edda68fc04588b91f28b331bb3be17781ad0276be8f3d5fa"
+    },
+    "3": {
+      "username": "cadenc",
+      "salt": "ae6c7af7337c6d84dfb247f1d7cb8224",
+      "password_hash": "5f0b8e5270f03f996ffa8a4cfed9cb034eef7e0855d186f0f1936363e520dc0a"
+    }
+  },
+  "games": {
+    "1": {
+      "username": "cadendc",
+      "level": 3,
+      "xp": 117,
+      "gold": 105,
+      "hp": 84,
+      "max_hp": 84,
+      "location": "Ruins",
+      "x": 22,
+      "y": 13,
+      "inventory": {
+        "greater_potion": 1,
+        "royal_sigil": 1
+      },
+      "skills": [
+        "power_strike",
+        "fireball"
+      ],
+      "cooldowns": {
+        "power_strike": 1,
+        "fireball": 1
+      },
+      "quests": {
+        "main_step": 4,
+        "main_kills": 3,
+        "side_started": [],
+        "side_done": [],
+        "defeated_spawns": [
+          "Village:4,2",
+          "Ruins:6,11",
+          "Ruins:16,6",
+          "Ruins:8,3",
+          "Village:14,8",
+          "Ruins:19,10"
+        ],
+        "intro_seen": true
+      }
+    },
+    "2": {
+      "username": "caden",
+      "level": 3,
+      "xp": 149,
+      "gold": 65,
+      "hp": 84,
+      "max_hp": 84,
+      "location": "Ruins",
+      "x": 22,
+      "y": 13,
+      "inventory": {
+        "royal_sigil": 1
+      },
+      "skills": [
+        "power_strike",
+        "fireball",
+        "healing_light"
+      ],
+      "cooldowns": {
+        "power_strike": 0,
+        "fireball": 2,
+        "healing_light": 2
+      },
+      "quests": {
+        "main_step": 4,
+        "main_kills": 3,
+        "side_started": [],
+        "side_done": [],
+        "defeated_spawns": [
+          "Village:4,2",
+          "Village:14,8",
+          "Village:3,7",
+          "Ruins:6,11",
+          "Ruins:16,6",
+          "Ruins:8,3",
+          "Ruins:19,10"
+        ],
+        "intro_seen": true
+      }
+    },
+    "3": {
+      "username": "cadenc",
+      "level": 3,
+      "xp": 149,
+      "gold": 60,
+      "hp": 84,
+      "max_hp": 84,
+      "location": "Ruins",
+      "x": 22,
+      "y": 13,
+      "inventory": {
+        "greater_potion": 1,
+        "potion": 2,
+        "royal_sigil": 1
+      },
+      "skills": [
+        "power_strike",
+        "fireball",
+        "healing_light"
+      ],
+      "cooldowns": {
+        "fireball": 2,
+        "power_strike": 0
+      },
+      "quests": {
+        "main_step": 4,
+        "main_kills": 3,
+        "side_started": [],
+        "side_done": [],
+        "defeated_spawns": [
+          "Village:4,2",
+          "Village:3,7",
+          "Village:14,8",
+          "Ruins:6,11",
+          "Ruins:8,3",
+          "Ruins:16,6",
+          "Ruins:19,10"
+        ],
+        "intro_seen": true
+      }
+    }
+  }
+}
